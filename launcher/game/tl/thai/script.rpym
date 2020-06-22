@@ -1,33 +1,33 @@
-﻿# The script of the game goes in this file.
+﻿# สครอปท์ของเกมจะอยู่ในไฟล์นี้
 
-# Declare characters used by this game. The color argument colorizes the
-# name of the character.
+# กำหนดตัวละครที่จะในเกม
+# คำสั่งเกี่ยวกับสีจะมีผลกับสีของชื่อตัวละคร
 
-define e = Character("Eileen")
+define e = Character("ไอรีน")
 
 
-# The game starts here.
+# เกมเริ่มที่นี่
 
 label start:
 
-    # Show a background. This uses a placeholder by default, but you can
-    # add a file (named either "bg room.png" or "bg room.jpg") to the
-    # images directory to show it.
+    # คำสั่งนี้จะแสดงภาพพื้นหลัง โดยในที่นี้จะแสดงภาพชั่วคราวเป็นค่าเริ่มต้น
+    # แต่คุณสามารถเพิ่มไฟล์ (จะชื่อ "bg room.png" หรือ "bg room.jpg" ก็ได้) ไปยัง
+    # โฟลเดอร์ images เพื่อแสดงภาพ
 
     scene bg room
 
-    # This shows a character sprite. A placeholder is used, but you can
-    # replace it by adding a file named "eileen happy.png" to the images
-    # directory.
+    # คำสั่งนี้จะแสดงรูปภาพของตัวละคร โดยในที่นี้จะแสดงภาพชั่วคราว
+    # แต่คุณสามารถเปลี่ยนรูปภาพได้โดยการสร้างไฟล์ที่ชื่อว่า "eileen happy.png"
+    # ไว้ในโฟลเดอร์ images
 
     show eileen happy
 
-    # These display lines of dialogue.
+    # คำสั่งนี้จะแสดงบทพูด
 
-    e "You've created a new Ren'Py game."
+    e "คุณสร้างเกมเรน'ไพสำเร็จแล้ว"
 
-    e "Once you add a story, pictures, and music, you can release it to the world!"
+    e "หลังจากที่คุณเพิ่มเนื้อเรื่อง รูปภาพ และเสียงเพลง คุณก็สามารถแสดงผลงานให้ทั้งโลกได้เห็น !"
 
-    # This ends the game.
+    # คำสั่งนี้จะทำให้เกมจบ
 
     return

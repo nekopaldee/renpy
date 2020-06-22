@@ -188,7 +188,7 @@ translate thai strings:
 
     # game/androidstrings.rpy:10
     old "Google Play support is enabled, but build.google_play_key is not defined."
-    new "ทำให้รองรับ Google Play แล้ว แต่ build.google_play_key ยังไม่ถูกกำหนด"
+    new "เปิดใช้งานการรองรับ Google Play แล้ว แต่ build.google_play_key ยังไม่ถูกกำหนด"
 
     # game/androidstrings.rpy:11
     old "Updating project."
@@ -268,171 +268,171 @@ translate thai strings:
 
     # game/androidstrings.rpy:30
     old "What is the application's version?\n\nThis should be the human-readable version that you would present to a person. It must contain only numbers and dots."
-    new "What is the application's version?\n\nThis should be the human-readable version that you would present to a person. It must contain only numbers and dots."
+    new "แอปพลิเคชันของคุณเป็นเวอร์ชันเท่าไหร่ ?\n\nในส่วนนี้จะเป็นหมายเลขเวอร์ชันที่ผู้ใช้งานเห็น สามารถมีได้เพียงตัวเลข และจุดเท่านั้น"
 
     # game/androidstrings.rpy:31
     old "The version number must contain only numbers and dots."
-    new "The version number must contain only numbers and dots."
+    new "หมายเลขเวอร์ชันสามารถมีได้เฉพาะตัวเลข และจุดเท่านั้น"
 
     # game/androidstrings.rpy:32
     old "What is the version code?\n\nThis must be a positive integer number, and the value should increase between versions."
-    new "What is the version code?\n\nThis must be a positive integer number, and the value should increase between versions."
+    new "โค้ดเวอร์ชันคือเท่าไหร่ ?\n\nจำเป็นที่จะต้องเป็นจำนวนเต็มบวกเท่านั้น และจำนวนควรจะเพิ่มทุกครั้งที่มีเวอร์ชันใหม่"
 
     # game/androidstrings.rpy:33
     old "The numeric version must contain only numbers."
-    new "The numeric version must contain only numbers."
+    new "โค้ดเวอร์ชันสามารถมีได้เฉพาะหมายเลขเท่านั้น"
 
     # game/androidstrings.rpy:34
     old "How would you like your application to be displayed?"
-    new "How would you like your application to be displayed?"
+    new "คุณต้องการให้แอปพลิเคชันของคุณแสดงผลอย่างไร ?"
 
     # game/androidstrings.rpy:35
     old "In landscape orientation."
-    new "In landscape orientation."
+    new "แนวนอน"
 
     # game/androidstrings.rpy:36
     old "In portrait orientation."
-    new "In portrait orientation."
+    new "แนวตั้ง"
 
     # game/androidstrings.rpy:37
     old "In the user's preferred orientation."
-    new "In the user's preferred orientation."
+    new "แล้วแต่ผู้ใช้งาน"
 
     # game/androidstrings.rpy:38
     old "Which app store would you like to support in-app purchasing through?"
-    new "Which app store would you like to support in-app purchasing through?"
+    new "คุณต้องการให้ร้านค้าใดรองรับการซื้อสินค้าภายในแอปพลิเคชัน ?"
 
     # game/androidstrings.rpy:39
     old "Google Play."
-    new "Google Play."
+    new "Google Play"
 
     # game/androidstrings.rpy:40
     old "Amazon App Store."
-    new "Amazon App Store."
+    new "Amazon App Store"
 
     # game/androidstrings.rpy:41
     old "Both, in one app."
-    new "Both, in one app."
+    new "ทั้งคู่ ในแอปเดียวกัน"
 
     # game/androidstrings.rpy:42
     old "Neither."
-    new "Neither."
+    new "ไม่ต้องการเลย"
 
     # game/androidstrings.rpy:43
     old "Would you like to create an expansion APK?"
-    new "Would you like to create an expansion APK?"
+    new "คุณต้องการสร้างไฟล์ APK เพิ่มเติมหรือไม่ ?"
 
     # game/androidstrings.rpy:44
     old "No. Size limit of 100 MB on Google Play, but can be distributed through other stores and sideloaded."
-    new "No. Size limit of 100 MB on Google Play, but can be distributed through other stores and sideloaded."
+    new "ไม่ บน Google Play จะจำกัดขาดไฟล์ที่ 100 MB เท่านั้น แต่คุณสามารถเผยแพร่ผ่านร้านค้าอื่น หรือติดตั้งโดยตรงได้"
 
     # game/androidstrings.rpy:45
     old "Yes. 2 GB size limit, but won't work outside of Google Play. (Read the documentation to get this to work.)"
-    new "Yes. 2 GB size limit, but won't work outside of Google Play. (Read the documentation to get this to work.)"
+    new "ใช่ จำกัดขนาดไฟล์ที่ 2 GB แต่จะไม่สามารถเผยแพร่นอกเหนือจาก Google Play ได้ (โปรดอ่านคู่มือการใช้งาน)"
 
     # game/androidstrings.rpy:46
     old "Do you want to allow the app to access the Internet?"
-    new "Do you want to allow the app to access the Internet?"
+    new "คุณต้องการให้แอปพลิเคชันของคุณเชื่อต่อกับอินเทอร์เน็ตได้หรือไม่ ?"
 
     # game/androidstrings.rpy:47
     old "Do you want to automatically update the generated project?"
-    new "Do you want to automatically update the generated project?"
+    new "คุณต้องการให้โปรเจกต์ที่ถูกสร้างแล้วอัปเดทโดยอัตโนมัติหรือไม่ ?"
 
     # game/androidstrings.rpy:48
     old "Yes. This is the best choice for most projects."
-    new "Yes. This is the best choice for most projects."
+    new "ใช่ นี่คือตัวเลือกที่ดีที่สุดสำหรับโปรเจกต์ส่วนใหญ่"
 
     # game/androidstrings.rpy:49
     old "No. This may require manual updates when Ren'Py or the project configuration changes."
-    new "No. This may require manual updates when Ren'Py or the project configuration changes."
+    new "ไม่ อาจจะทำให้ต้องอัปเดทด้วยตัวเองเมื่อการตั้งค่าของโปรเจกต์ หรือเรน'ไพเปลี่ยนไป"
 
     # game/androidstrings.rpy:50
     old "Unknown configuration variable: {}"
-    new "Unknown configuration variable: {}"
+    new "ตัวแปรการตั้งค่าที่ไม่รู้จัก: {}"
 
     # game/androidstrings.rpy:51
     old "I'm compiling a short test program, to see if you have a working JDK on your system."
-    new "I'm compiling a short test program, to see if you have a working JDK on your system."
+    new "ฉันกำลังคอมไพล์โปรแกรมทดลองเล็ก ๆ เพื่อดูว่าคุณมี JDK ที่สามารถใช้งานได้อยู่บนเครื่องของคุณ"
 
     # game/androidstrings.rpy:52
     old "I was unable to use javac to compile a test file. If you haven't installed the Java Development Kit yet, please download it from:\n\nhttp://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html\n\nThe JDK is different from the JRE, so it's possible you have Java without having the JDK. Without a working JDK, I can't continue."
-    new "I was unable to use javac to compile a test file. If you haven't installed the Java Development Kit yet, please download it from:\n\nhttp://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html\n\nThe JDK is different from the JRE, so it's possible you have Java without having the JDK. Without a working JDK, I can't continue."
+    new "ฉันไม่สามารถใช้ javac เพื่อคอมไพล์ไฟล์ทดสอบได้ หากคุณยังไม่ได้ติดตั้ง Java Development Kit โปรดดาวน์โหลดจาก:\n\nhttp://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html\n\nJDK นั้นแตกต่างจาก JRE ดังนั้นจึงมีความเป็นไปได้ที่คุณจะมี Java ที่ไม่มี JDK หากไม่มี JDK ที่สามารถใช้งานได้ ฉันก็ไม่สามารถทำงานต่อได้"
 
     # game/androidstrings.rpy:53
     old "The version of Java on your computer does not appear to be JDK 8, which is the only version supported by the Android SDK. If you need to install JDK 8, you can download it from:\n\nhttp://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html\n\nYou can also set the JAVA_HOME environment variable to use a different version of Java."
-    new "The version of Java on your computer does not appear to be JDK 8, which is the only version supported by the Android SDK. If you need to install JDK 8, you can download it from:\n\nhttp://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html\n\nYou can also set the JAVA_HOME environment variable to use a different version of Java."
+    new "เหมือนว่า Java จะไม่ใช่ JDK เวอร์ชัน 8 ซึ่งเป็นเวอร์ชันเดียวที่ Android SDK รองรับ หากคุณต้องการติดตั้ง JDK 8 คุณสามารถดาวน์โหลดได้จาก:\n\nhttp://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html\n\nนอกจากนี้คุณยังสามารถตั้งค่าตัวแปรแวดล้อม JAVA_HOME เพื่อใช้งาน Java เวอร์ชันอื่น"
 
     # game/androidstrings.rpy:54
     old "The JDK is present and working. Good!"
-    new "The JDK is present and working. Good!"
+    new "JDK ที่มีอยู่สามารถทำงานได้ สุดยอด !"
 
     # game/androidstrings.rpy:55
     old "The Android SDK has already been unpacked."
-    new "The Android SDK has already been unpacked."
+    new "แตกไฟล์ Android SDK เรียบร้อยแล้ว"
 
     # game/androidstrings.rpy:56
     old "Do you accept the Android SDK Terms and Conditions?"
-    new "Do you accept the Android SDK Terms and Conditions?"
+    new "คุณยอมรับข้อตกลงการใช้งานของ Android SDK หรือไม่ ?"
 
     # game/androidstrings.rpy:57
     old "I'm downloading the Android SDK. This might take a while."
-    new "I'm downloading the Android SDK. This might take a while."
+    new "ฉันกำลังดาวน์โหลด Android SDK รอสักพักนึงนะ"
 
     # game/androidstrings.rpy:58
     old "I'm extracting the Android SDK."
-    new "I'm extracting the Android SDK."
+    new "ฉันกำลังแตกไฟล์ Android SDK"
 
     # game/androidstrings.rpy:59
     old "I've finished unpacking the Android SDK."
-    new "I've finished unpacking the Android SDK."
+    new "ฉันแตกไฟล์ Android SDK เรียบร้อยแล้ว"
 
     # game/androidstrings.rpy:60
     old "I'm about to download and install the required Android packages. This might take a while."
-    new "I'm about to download and install the required Android packages. This might take a while."
+    new "ฉันกำลังจะดาวน์โหลดชุดไฟล์ Android ที่จำเป็น คงต้องใช้เวลาสักพักนึงนะ"
 
     # game/androidstrings.rpy:61
     old "I was unable to accept the Android licenses."
-    new "I was unable to accept the Android licenses."
+    new "ฉันไม่สามารถยอมรับสัญญาของ Android ได้"
 
     # game/androidstrings.rpy:62
     old "I was unable to install the required Android packages."
-    new "I was unable to install the required Android packages."
+    new "ฉันไม่สามารถติดตั้งชุดไฟล์ที่จำเป็นของ Android ได้"
 
     # game/androidstrings.rpy:63
     old "I've finished installing the required Android packages."
-    new "I've finished installing the required Android packages."
+    new "ฉันติดตั้งชุดไฟล์ที่จำเป็นของ Android เรียบร้อยแล้ว"
 
     # game/androidstrings.rpy:64
     old "You set the keystore yourself, so I'll assume it's how you want it."
-    new "You set the keystore yourself, so I'll assume it's how you want it."
+    new "คุณตั้ง keystore ด้วยตัวเองไว้แล้ว ดังนั้นจะจะคิดว่าคุณอยากได้แบบนี้นะ"
 
     # game/androidstrings.rpy:65
     old "You've already created an Android keystore, so I won't create a new one for you."
-    new "You've already created an Android keystore, so I won't create a new one for you."
+    new "คุณสร้าง keystore ของ Android เอาไว้แล้ว ดังนั้นฉันจะไม่สร้างอันใหม่ให้คุณ"
 
     # game/androidstrings.rpy:66
     old "I can create an application signing key for you. Signing an application with this key allows it to be placed in the Android Market and other app stores.\n\nDo you want to create a key?"
-    new "I can create an application signing key for you. Signing an application with this key allows it to be placed in the Android Market and other app stores.\n\nDo you want to create a key?"
+    new "ฉันสามารถสร้างกุญแจสำหรับลงชื่อบนแอปพลิเคชันให้คุณได้นะ การลงชื่อบนแอปพลิเคชันด้วยกุญแจนี้จะสามารถทำให้แอปของคุณอยู่บน Android Market และร้านค้าอื่น ๆ ได้\n\nคุณต้องการสร้างกุญแจไหม ?"
 
     # game/androidstrings.rpy:67
     old "I will create the key in the android.keystore file.\n\nYou need to back this file up. If you lose it, you will not be able to upgrade your application.\n\n\\You also need to keep the key safe. If evil people get this file, they could make fake versions of your application, and potentially steal your users' data.\n\nWill you make a backup of android.keystore, and keep it in a safe place?"
-    new "I will create the key in the android.keystore file.\n\nYou need to back this file up. If you lose it, you will not be able to upgrade your application.\n\n\\You also need to keep the key safe. If evil people get this file, they could make fake versions of your application, and potentially steal your users' data.\n\nWill you make a backup of android.keystore, and keep it in a safe place?"
+    new "ฉันจะสร้างกุญแจในไฟล์ android.keystore\n\nคุณควรจะสำรองไฟล์นี้เอาไว้ก่อน ถ้าคุณทำมันหายไปคุณจะไม่สามารถอัปเดทแอปพลิเคชันของคุณได้\n\n\\นอกจากนี้คุณยังต้องเก็บไฟล์นี้เอาไว้ในที่ปลอดภัย ถ้ามีคนไม่ดีได้มันไปเขาสามารถทำแอปพลิเคชันปลอมขึ้นมาแล้วขโมยข้อมูลผู้ใช้งานของคุณ และคนอื่นได้\n\nคุณจะสำรองไฟล์ android.keystore แล้วเก็บมันเอาไว้ในที่ปลอดภัยไหม ?"
 
     # game/androidstrings.rpy:68
     old "Please enter your name or the name of your organization."
-    new "Please enter your name or the name of your organization."
+    new "กรุณาใส่ชื่อของคุณ หรือชื่อหน่วยงานของคุณ"
 
     # game/androidstrings.rpy:69
     old "Could not create android.keystore. Is keytool in your path?"
-    new "Could not create android.keystore. Is keytool in your path?"
+    new "ไม่สามารถสร้าง android.keystore ได้ keytool อยู่ในโฟลเดอร์แล้วหรือยัง ?"
 
     # game/androidstrings.rpy:70
     old "I've finished creating android.keystore. Please back it up, and keep it in a safe place."
-    new "I've finished creating android.keystore. Please back it up, and keep it in a safe place."
+    new "ฉันสร้าง android.keystore เรียบร้อยแล้ว โปรดสำรองไฟล์ และเก็บเอาไว้ในที่ปลอดภัย"
 
     # game/androidstrings.rpy:71
     old "It looks like you're ready to start packaging games."
-    new "It looks like you're ready to start packaging games."
+    new "เหมือนว่าคุณพร้อมที่จะสร้างชุดไฟล์เกมแล้วนะ"
 
     # game/choose_directory.rpy:88
     old "Ren'Py was unable to run python with tkinter to choose the directory. Please install the python-tk or tkinter package."

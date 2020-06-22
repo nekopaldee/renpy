@@ -4,7 +4,7 @@ translate thai strings:
 
     # gui/game/gui.rpy:2
     old "## Initialization"
-    new "## Initialization"
+    new "## การเริ่มต้น"
 
     # gui/game/gui.rpy:5
     old "## The init offset statement causes the initialization statements in this file to run before init statements in any other file."
@@ -16,15 +16,15 @@ translate thai strings:
 
     # gui/game/gui.rpy:17
     old "## GUI Configuration Variables"
-    new "## GUI Configuration Variables"
+    new "## ตัวแรปการตั้งต่า GUI"
 
     # gui/game/gui.rpy:21
     old "## Colors"
-    new "## Colors"
+    new "## สี"
 
     # gui/game/gui.rpy:23
     old "## The colors of text in the interface."
-    new "## The colors of text in the interface."
+    new "## สีของตัวหนังสือในส่วนติดต่อผู้ใช้งาน"
 
     # gui/game/gui.rpy:25
     old "## An accent color used throughout the interface to label and highlight text."
@@ -60,47 +60,47 @@ translate thai strings:
 
     # gui/game/gui.rpy:56
     old "## Fonts and Font Sizes"
-    new "## Fonts and Font Sizes"
+    new "## แบบอักษร และขนาดตัวอักษร"
 
     # gui/game/gui.rpy:58
     old "## The font used for in-game text."
-    new "## The font used for in-game text."
+    new "## แบบอักษรที่ใช้ในข้อความภายในเกม"
 
     # gui/game/gui.rpy:61
     old "## The font used for character names."
-    new "## The font used for character names."
+    new "## แบบอักษรที่ใช้สำหรับชื่อตัวละคร"
 
     # gui/game/gui.rpy:64
     old "## The font used for out-of-game text."
-    new "## The font used for out-of-game text."
+    new "## แบบอักษรที่ใช้ภายนอกตัวเกม"
 
     # gui/game/gui.rpy:67
     old "## The size of normal dialogue text."
-    new "## The size of normal dialogue text."
+    new "## ขนาดอักษรของบทพูดปกติ"
 
     # gui/game/gui.rpy:70
     old "## The size of character names."
-    new "## The size of character names."
+    new "## ขนาดอักษรของชื่อตัวละคร"
 
     # gui/game/gui.rpy:73
     old "## The size of text in the game's user interface."
-    new "## The size of text in the game's user interface."
+    new "## ขนาดอักษรของส่วนติดต่อผู้ใช้งานภายในเกม"
 
     # gui/game/gui.rpy:76
     old "## The size of labels in the game's user interface."
-    new "## The size of labels in the game's user interface."
+    new "## ขนาดอักษรของป้ายชื่อในส่วนติดต่อผู้ใช้งานภายในเกม"
 
     # gui/game/gui.rpy:79
     old "## The size of text on the notify screen."
-    new "## The size of text on the notify screen."
+    new "## ขนาดของตัวอักษรบนหน้าต่างแจ้งเตือน"
 
     # gui/game/gui.rpy:82
     old "## The size of the game's title."
-    new "## The size of the game's title."
+    new "## ขนาดของชื่อเกม"
 
     # gui/game/gui.rpy:86
     old "## Main and Game Menus"
-    new "## Main and Game Menus"
+    new "## เมนูหลัก และเมนูภายในเกม"
 
     # gui/game/gui.rpy:88
     old "## The images used for the main and game menus."
@@ -108,7 +108,7 @@ translate thai strings:
 
     # gui/game/gui.rpy:93
     old "## Dialogue"
-    new "## Dialogue"
+    new "## บทพูด"
 
     # gui/game/gui.rpy:95
     old "## These variables control how dialogue is displayed on the screen one line at a time."
@@ -156,7 +156,7 @@ translate thai strings:
 
     # gui/game/gui.rpy:143
     old "## Buttons"
-    new "## Buttons"
+    new "## ปุ่ม"
 
     # gui/game/gui.rpy:145
     old "## These variables, along with the image files in gui/button, control aspects of how buttons are displayed."
@@ -204,7 +204,7 @@ translate thai strings:
 
     # gui/game/gui.rpy:202
     old "## Choice Buttons"
-    new "## Choice Buttons"
+    new "## ปุ่มตัวเลือก"
 
     # gui/game/gui.rpy:204
     old "## Choice buttons are used in the in-game menus."
@@ -212,7 +212,7 @@ translate thai strings:
 
     # gui/game/gui.rpy:218
     old "## File Slot Buttons"
-    new "## File Slot Buttons"
+    new "## ปุ่มช่องบันทึก"
 
     # gui/game/gui.rpy:220
     old "## A file slot button is a special kind of button. It contains a thumbnail image, and text describing the contents of the save slot. A save slot uses image files in gui/button, like the other kinds of buttons."
@@ -232,7 +232,7 @@ translate thai strings:
 
     # gui/game/gui.rpy:243
     old "## Positioning and Spacing"
-    new "## Positioning and Spacing"
+    new "## การวางตำแหน่ง และระยะห่าง"
 
     # gui/game/gui.rpy:245
     old "## These variables control the positioning and spacing of various user interface elements."
@@ -280,7 +280,7 @@ translate thai strings:
 
     # gui/game/gui.rpy:280
     old "## Frames"
-    new "## Frames"
+    new "## กรอบ"
 
     # gui/game/gui.rpy:282
     old "## These variables control the look of frames that can contain user interface components when an overlay or window is not present."
@@ -340,7 +340,7 @@ translate thai strings:
 
     # gui/game/gui.rpy:334
     old "## History"
-    new "## History"
+    new "## ประวัติ"
 
     # gui/game/gui.rpy:336
     old "## The history screen displays dialogue that the player has already dismissed."
@@ -396,7 +396,7 @@ translate thai strings:
 
     # gui/game/gui.rpy:402
     old "## Localization"
-    new "## Localization"
+    new "## การแปลภาษา"
 
     # gui/game/gui.rpy:404
     old "## This controls where a line break is permitted. The default is suitable for most languages. A list of available values can be found at https://www.renpy.org/doc/html/style_properties.html#style-property-language"
@@ -404,7 +404,7 @@ translate thai strings:
 
     # gui/game/gui.rpy:412
     old "## Mobile devices"
-    new "## Mobile devices"
+    new "## อุปกรณ์มือถือ"
 
     # gui/game/gui.rpy:417
     old "## This increases the size of the quick buttons to make them easier to touch on tablets and phones."
