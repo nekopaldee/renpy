@@ -87,3 +87,7 @@ tutorial/game/tutorial_director.rpy
 launcher/theme
 module/emscripten-static/
 web/
+.DS_Store
+launcher/.DS_Store
+launcher/game/.DS_Store
+launcher/game/tl/.DS_Store
