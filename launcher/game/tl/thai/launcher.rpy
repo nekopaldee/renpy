@@ -436,19 +436,19 @@ translate thai strings:
 
     # game/choose_directory.rpy:88
     old "Ren'Py was unable to run python with tkinter to choose the directory. Please install the python-tk or tkinter package."
-    new "Ren'Py was unable to run python with tkinter to choose the directory. Please install the python-tk or tkinter package."
+    new "เรน'ไพ ไม่สามารถเริ่ม python ด้วย tkinter เพื่อเลือกโฟลเดอร์ได้ โปรดติดตั้ง python-tk หรือ tkinter"
 
     # game/choose_directory.rpy:106
     old "The selected projects directory is not writable."
-    new "The selected projects directory is not writable."
+    new "โฟลเดอร์ของโปรเจกต์ที่เลือกไว้ไม่สามารถเขียนได้"
 
     # game/choose_theme.rpy:303
     old "Could not change the theme. Perhaps options.rpy was changed too much."
-    new "Could not change the theme. Perhaps options.rpy was changed too much."
+    new "ไม่สามารถเปลี่ยนธีมได้ ไม่แน่ไฟล์ options.rpy อาจถูกเปลี่ยนมากเกินไป"
 
     # game/choose_theme.rpy:370
     old "Planetarium"
-    new "Planetarium"
+    new "ท้องฟ้าจำลอง"
 
     # game/choose_theme.rpy:425
     old "Choose Theme"
@@ -460,7 +460,7 @@ translate thai strings:
 
     # game/choose_theme.rpy:463
     old "Color Scheme"
-    new "สี"
+    new "ชุดสี"
 
     # game/choose_theme.rpy:495
     old "Continue"
@@ -476,23 +476,23 @@ translate thai strings:
 
     # game/consolecommand.rpy:84
     old "The command is being run in a new operating system console window."
-    new "The command is being run in a new operating system console window."
+    new "คำสั่งกำลังเริ่มทำงานในหน้าต่างคอนโซลใหม่ของระบบปฏิบัติการ์ณ"
 
     # game/distribute.rpy:452
     old "Scanning project files..."
-    new "Scanning project files..."
+    new "กำลังตรวจสอบไฟล์โปรเจกต์..."
 
     # game/distribute.rpy:468
     old "Building distributions failed:\n\nThe build.directory_name variable may not include the space, colon, or semicolon characters."
-    new "Building distributions failed:\n\nThe build.directory_name variable may not include the space, colon, or semicolon characters."
+    new "การสร้างชุดไฟล์สำหรับเล่นล้มเหลว:\n\nตัวแปร build.directory_name ไม่สามารถมีเว้นวรรค โคล่อน (:), หรือเซมิโคล่อน (;) ได้"
 
     # game/distribute.rpy:513
     old "No packages are selected, so there's nothing to do."
-    new "No packages are selected, so there's nothing to do."
+    new "ไม่ได้เลือกอะไรเอาไว้ ดังนั้นก็ไม่มีอะไรให้ทำ"
 
     # game/distribute.rpy:525
     old "Scanning Ren'Py files..."
-    new "Scanning Ren'Py files..."
+    new "กำลังตรวจสอบไฟล์เรน'ไพ..."
 
     # game/distribute.rpy:584
     old "All packages have been built.\n\nDue to the presence of permission information, unpacking and repacking the Linux and Macintosh distributions on Windows is not supported."
